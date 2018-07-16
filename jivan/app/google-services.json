@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "893346420393",
+    "firebase_url": "https://jivanjyotvidyalay.firebaseio.com",
+    "project_id": "jivanjyotvidyalay",
+    "storage_bucket": "jivanjyotvidyalay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893346420393:android:0189a129413bae78",
+        "android_client_info": {
+          "package_name": "com.skyzone18.jivanjyotvidyalay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893346420393-oupt7bnr5m9u1v5n18k0evfp6csu448v.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "893346420393-oupt7bnr5m9u1v5n18k0evfp6csu448v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-yH2uqoid1sK4nXyleq6Qo37O4-x0Q3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
