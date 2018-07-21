@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about_available_black_24dp"
+            android:title="@string/app_about" />
+        <item
+            android:id="@+id/nav_aim"
+            android:icon="@drawable/ic_target_black_24dp"
+            android:title="@string/app_aim" />
+        <item
+            android:id="@+id/nav_mangement"
+            android:icon="@drawable/ic_management_black_24dp"
+            android:title="મૅજમેન્ટ" />
+        <item
+            android:id="@+id/nav_academics"
+            android:icon="@drawable/ic_academices_black_24dp"
+            android:title="@string/app_academics" />
+        <item
+            android:id="@+id/nav_admission"
+            android:icon="@drawable/ic_admission_black_24dp"
+            android:title="@string/app_admission" />
+        <item
+            android:id="@+id/nav_staff"
+            android:icon="@drawable/ic_staff_black_24dp"
+            android:title="@string/app_sta" />
+        <item
+            android:id="@+id/nav_faci"
+            android:icon="@drawable/ic_facility_black_24dp"
+            android:title="@string/app_faci" />
+        <item
+            android:id="@+id/nav_event"
+            android:icon="@drawable/ic_event_black_24dp"
+            android:title="@string/event" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_news_black_24dp"
+            android:title="@string/app_news" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_gallery_black_24dp"
+            android:title="@string/app_gallery" />
+        <item
+            android:id="@+id/nav_ntc"
+            android:icon="@drawable/ic_notic_black_24dp"
+            android:title="@string/app_ntc" />
+        <item
+            android:id="@+id/nav_homework"
+            android:icon="@drawable/ic_homeworks_black_24dp"
+            android:title="@string/home_works" />
+        <item
+            android:id="@+id/nav_timetable"
+            android:icon="@drawable/ic_timetable_black_24"
+            android:title="@string/home_timetable" />
+        <item
+            android:id="@+id/nav_calander"
+            android:icon="@drawable/ic_calendar_black_24"
+            android:title="@string/app_calander" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/movie_symbol_of_video_camera"
+            android:title="@string/app_video" />
+        <item
+            android:id="@+id/nav_student"
+            android:icon="@drawable/ic_login_black_24dp"
+            android:title="@string/app_student" />
+    </group>
+    <item android:title="Communicate">
+    <menu>
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/share" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="@string/rate_us" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_call_black_24dp"
+            android:title="@string/contact" />
+    </menu>
+    </item>
+</menu>
